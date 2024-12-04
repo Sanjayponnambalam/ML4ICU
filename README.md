@@ -56,6 +56,7 @@ By analyzing vital signs such as heart rate, respiratory rate, body temperature,
    
 4. Input patient data via the UI and receive real-time predictions.
 
+---
    
 ## **Architecture**
 
@@ -93,6 +94,7 @@ This project aims to leverage the power of ensemble learning techniques to build
 
 By combining the strengths of bagging and SVC, this approach aims to reduce variance, improve prediction accuracy, and enhance the overall robustness of the model.
 
+---
 
 ## **Model Performance**
 
@@ -125,6 +127,8 @@ The model demonstrated excellent performance on both the training and testing se
   ```
 These results suggest that the model is highly accurate and reliable in predicting the target variable, both on the data it was trained on and on unseen data. The consistency between the training and testing set performance indicates that the model is not overfitting and generalizes well to new data.
 
+---
+
 ## **Comparative Analysis**
 
 | Algorithm | Accuracy | Recall | Precision | F1-Score | AUC-ROC |
@@ -135,15 +139,21 @@ These results suggest that the model is highly accurate and reliable in predicti
 | GRU | 88.5% | 86.5% | 87.7% | 87.1% | 0.935 |
 | RNN | 85.4% | 83.6% | 84.8% | 84.2% | 0.913 |
 
+---
+
 ## **Future Enhancements**
 
 * Incorporate additional features like patient history for better predictions.
 * Optimize performance for larger datasets.
 * Real-time embedding with ICU equipments.
 
+---
+
 ## **License**
 
 This project is licensed under the MIT License. See the ![LICENSE](https://github.com/Sanjayponnambalam/ML4ICU/blob/main/LICENSE) file for details
+
+---
 
 ## **Website**
 
@@ -154,4 +164,6 @@ This project is licensed under the MIT License. See the ![LICENSE](https://githu
 * High Risk
   
 ![High Risk Prediction](https://github.com/Sanjayponnambalam/ML4ICU/blob/main/website/imgs/highrisk)
-  
+
+---
+
