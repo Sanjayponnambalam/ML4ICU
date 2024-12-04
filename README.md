@@ -144,3 +144,14 @@ These results suggest that the model is highly accurate and reliable in predicti
 ## **License**
 
 This project is licensed under the MIT License. See the ![LICENSE](https://github.com/Sanjayponnambalam/ML4ICU/blob/main/LICENSE) file for details
+
+## **Website**
+
+* Low Risk
+
+![Low Risk Prediction](https://github.com/Sanjayponnambalam/ML4ICU/blob/main/website/imgs/lowrisk.png)
+
+* High Risk
+  
+![High Risk Prediction](https://github.com/Sanjayponnambalam/ML4ICU/blob/main/website/imgs/highrisk)
+  
