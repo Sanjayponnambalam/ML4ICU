@@ -129,7 +129,7 @@ These results suggest that the model is highly accurate and reliable in predicti
 
 ---
 
-## **Comparative Analysis**
+## **Comparative Analysis of models**
 
 | Algorithm | Accuracy | Recall | Precision | F1-Score | AUC-ROC |
 |---|---|---|---|---|---|
