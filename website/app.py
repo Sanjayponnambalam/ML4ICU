@@ -3,7 +3,7 @@ import pickle
 import numpy as np
 from flask import Flask, render_template, request, jsonify
 
-app = Flask(__name__)
+app = Flask(__name__, template_folder='website/templates')
 
 # Specify the folder path (where the model and scaler are saved)
 model_path = '../patient_deterioration_model.pkl'
