@@ -6,9 +6,8 @@ from flask import Flask, render_template, request, jsonify
 app = Flask(__name__)
 
 # Specify the folder path (where the model and scaler are saved)
-model_path = 'C:/Users/sanja/OneDrive/Desktop/Career/Projects/Website ML4ICU/patient_deterioration_model.pkl'
-scaler_path = 'C:/Users/sanja/OneDrive/Desktop/Career/Projects/Website ML4ICU/scaler.pkl'
-
+model_path = '../../patient_deterioration_model.pkl'
+scaler_path = '../../scaler.pkl'
 # Load the saved model using pickle
 with open(model_path, 'rb') as f:
     bagging_model = pickle.load(f)
