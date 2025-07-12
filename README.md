@@ -165,10 +165,5 @@ This project is licensed under the MIT License. See the ![LICENSE](https://githu
   
 ![High Risk Prediction](https://github.com/Sanjayponnambalam/ML4ICU/blob/main/website/imgs/highrisk)
 
-* Future updates will include an improved UI/UX for better user experience and accessibility.
-* The system will be further optimized to support real-time ICU monitoring with streaming data.
-* Integration with cloud services is planned for scalable deployment and data management.
-* Extensive model testing will be conducted on diverse datasets to ensure robustness and adaptability.
-* Collaboration with healthcare professionals will help refine model predictions and improve clinical usability.
 ---
 
